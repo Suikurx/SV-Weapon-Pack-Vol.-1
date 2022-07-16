@@ -1,0 +1,20 @@
+{
+    "Name": "V's Cane",
+    "Description": "Belonged to a Moon Princess.  That bulbous top looks painful.",
+    "Type": "Sword",
+    "MinimumDamage": 32,
+    "MaximumDamage": 46,
+    "Knockback": 3,
+    "Defense": 6,
+    "Accuracy": 8,
+	"Weight": 1,
+    "MineDropVar": -1,
+    "MineDropMinimumLevel": -1,
+    "ExtraSwingArea": 1,
+    "CritChance": 0.09,
+    "CritMultiplier": 2.5,
+    "CanPurchase": true,
+    "PurchaseFrom": "Marlon",
+    "PurchasePrice": 8000,
+    "PurchaseRequirements": null
+}

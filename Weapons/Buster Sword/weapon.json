@@ -1,0 +1,20 @@
+{
+    "Name": "Buster Sword",
+    "Description": "Belonged to a Moon Princess.  That bulbous top looks painful.",
+    "Type": "Sword",
+    "MinimumDamage": 52,
+    "MaximumDamage": 79,
+    "Knockback": 5,
+    "Defense": 7,
+    "Accuracy": 2,
+	"Weight": 7,
+    "MineDropVar": -1,
+    "MineDropMinimumLevel": -1,
+    "ExtraSwingArea": 1,
+    "CritChance": 0.13,
+    "CritMultiplier": 4.0,
+    "CanPurchase": true,
+    "PurchaseFrom": "Marlon",
+    "PurchasePrice": 8000,
+    "PurchaseRequirements": null
+}
