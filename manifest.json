@@ -1,10 +1,13 @@
 {
-    "Name": "Suikurix's Weapon Pack Vol. 1",
+    "Name": "Weapons Pack Vol. 1",
     "Author": "Suikurix",
     "Version": "1.0.0",
-    "Description": "<One or two sentences about the mod>",
-    "UniqueID": "Suikurix.Weapon Pack Vol. 1",
-    "EntryDll": ["Nexus:12953].dll"],
-    "MinimumApiVersion": "3.0.0",
-    "UpdateKeys": "spacechase0.JsonAssets"
+    "Description": "Adds 15 different weapons to your game",
+    "UniqueID": "Suikurix.Weapons_Pack_Vol.1",
+    "MinimumApiVersion": "1.0.0",
+    "UpdateKeys": ["Nexus:12953"],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
 }
