@@ -1,5 +1,5 @@
 {
-    "Name": "Buster Sword",
+    "Name": "Kingdom Kingsblade",
     "Description": "Belonged to a Moon Princess.  That bulbous top looks painful.",
     "Type": "Sword",
     "MinimumDamage": 52,
@@ -15,6 +15,6 @@
     "CritMultiplier": 4.0,
     "CanPurchase": true,
     "PurchaseFrom": "Marlon",
-    "PurchasePrice": 8000,
+    "PurchasePrice": 2000,
     "PurchaseRequirements": null
 }

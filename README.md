@@ -1,5 +1,5 @@
 #Weapon Pack Vol. 1
-<<<<<<< HEAD
+
 
 Adds 4 new weapons to Stardew Valley
 

@@ -1,6 +1,6 @@
 {
-    "Name": "Kingdom Keyblade",
-    "Description": "Belonged to a Moon Princess.  That bulbous top looks painful.",
+    "Name": "High-Frequency Katana",
+    "Description": "Belonged to a Cyber Ninja",
     "Type": "Sword",
     "MinimumDamage": 37,
     "MaximumDamage": 48,
@@ -15,6 +15,6 @@
     "CritMultiplier": 1.5,
     "CanPurchase": true,
     "PurchaseFrom": "Marlon",
-    "PurchasePrice": 2000,
+    "PurchasePrice": 4000,
     "PurchaseRequirements": null
 }
