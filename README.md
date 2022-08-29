@@ -1,8 +1,5 @@
 #Weapon Pack Vol. 1
-<<<<<<< HEAD
 
-=======
->>>>>>> 042551ee2d49ff8fd47b160a250e7129e9c9b04c
 
 Adds 4 new weapons to Stardew Valley
 
